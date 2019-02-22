@@ -1,0 +1,57 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Italy",
+      "visa_required": false
+    },
+    {
+      "id": 2,
+      "name": "Switzerland",
+      "visa_required": true
+    },
+    {
+      "id": 3,
+      "name": "France",
+      "visa_required": false
+    }
+  ],
+  "interests": [
+    {
+      "placeId": null,
+      "name": "sss",
+      "description": "sss",
+      "id": 23
+    },
+    {
+      "placeId": null,
+      "name": "hello",
+      "description": "a",
+      "id": 25
+    },
+    {
+      "placeId": null,
+      "name": "ken",
+      "description": "caaaaa",
+      "id": 26
+    },
+    {
+      "placeId": null,
+      "name": "ken",
+      "description": "perkerwicz",
+      "id": 27
+    },
+    {
+      "placeId": null,
+      "name": "cc",
+      "description": "cc",
+      "id": 28
+    },
+    {
+      "placeId": null,
+      "name": "",
+      "description": "",
+      "id": 29
+    }
+  ]
+}
